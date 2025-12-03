@@ -210,7 +210,7 @@ class MainWindow(QMainWindow):
         """)
         layout.addWidget(self.image_label)
         
-        # Carregar imagem local
+        
         self.load_local_image("core/img.png")
 
         self.url_label = QLabel("INSIRA O URL:")
@@ -359,4 +359,5 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     window = MainWindow()
     window.show()
+
     sys.exit(app.exec_())
