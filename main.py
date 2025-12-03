@@ -229,7 +229,7 @@ class MainWindow(QMainWindow):
         layout.addWidget(self.requests_label)
 
         self.requests_input = QLineEdit()
-        self.requests_input.setPlaceholderText("e.g., 1000")
+        self.requests_input.setPlaceholderText("1000")
         self.requests_input.setFixedWidth(400)
         layout.addWidget(self.requests_input, alignment=Qt.AlignCenter)
 
@@ -361,3 +361,4 @@ if __name__ == "__main__":
     window.show()
 
     sys.exit(app.exec_())
+
