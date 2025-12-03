@@ -38,7 +38,7 @@ ESTE REPOSITÓRIO É APENAS PARA FINS EDUCACIONAIS E DE PESQUISA ACADÊMICA
 
 - LGPD (Brasil)
 
--Outras leis aplicáveis em sua jurisdição
+- Outras leis aplicáveis em sua jurisdição
 
 # Responsabilidade do Usuário: O criador/mantenedor deste repositório:
 
