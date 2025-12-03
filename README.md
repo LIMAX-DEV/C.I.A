@@ -32,11 +32,11 @@ ESTE REPOSITÓRIO É APENAS PARA FINS EDUCACIONAIS E DE PESQUISA ACADÊMICA
 
 - Legislações como:
 
--CFAA (Computer Fraud and Abuse Act - EUA)
+- CFAA (Computer Fraud and Abuse Act - EUA)
 
--GDPR (Europa)
+- GDPR (Europa)
 
--LGPD (Brasil)
+- LGPD (Brasil)
 
 -Outras leis aplicáveis em sua jurisdição
 
@@ -56,6 +56,6 @@ ESTE REPOSITÓRIO É APENAS PARA FINS EDUCACIONAIS E DE PESQUISA ACADÊMICA
 
 - Máquinas virtuais isoladas
 
-Redes privadas com consentimento
+- Redes privadas com consentimento
 
-Cenários de pentest com contrato formal
+- Cenários de pentest com contrato formal
