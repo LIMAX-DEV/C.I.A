@@ -1,3 +1,14 @@
+# Linux 🐧
+
+    git clone https://github.com/LIMAX-DEV/C.I.A.git
+    cd C.I.A
+    pip install -r requirements.txt
+    python main.py
+
+
+
+
+
 # ⚠️ Isenção de Responsabilidade e Aviso Legal
 ESTE REPOSITÓRIO É APENAS PARA FINS EDUCACIONAIS E DE PESQUISA ACADÊMICA
 
